@@ -37,7 +37,7 @@ button {
   justify-content: left;
   align-items: left;
   flex-wrap: nowrap;
-  margin: 20px 140px 20px 370px;
+  margin: 20px 650px 20px 370px;
   padding-left: 20px;
   padding-right: 20px;
   border-radius: 5px;
@@ -76,7 +76,8 @@ h1 {
 }
 
 footer div {
-  margin-top: 80px;
+  margin-top: 150px;
+  position: absolute;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -93,5 +94,5 @@ footer li {
 
 footer p {
   color: grey;
-  margin-left: 20px;
+  margin-left: 50px;
 }
